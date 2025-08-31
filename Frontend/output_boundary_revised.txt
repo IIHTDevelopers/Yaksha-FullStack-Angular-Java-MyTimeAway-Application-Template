@@ -1,5 +1,0 @@
-appcomponentBoundaryShouldCreateTheApp=true
-appcomponentBoundaryShouldHaveAsTitle'mytimeAwayApplication'=true
-appcomponentBoundaryShouldRenderTitle=false
-appcomponentBoundaryShouldNavigateTo/userWhenClickingOnThe"user"Link=false
-appcomponentBoundaryShouldNavigateTo/adminWhenClickingOnThe"admin"Link=false
