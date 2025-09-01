@@ -69,11 +69,6 @@ public class EmployeeLeaveServiceImpl implements EmployeeLeaveService {
 		return null;
 	}
 
-	private EmployeeLeaveDTO convertToDTO(EmployeeLeave leave) {
-		return null;
-	}
-
-	private EmployeeLeave convertToEntity(EmployeeLeaveDTO leaveDTO) {
-		return null;
-	}
+	
 }
+
